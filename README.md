@@ -1,23 +1,13 @@
 # datafun-06-ml
 
-[![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
-[![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
-[![uv managed](https://img.shields.io/badge/uv-managed-DE5FE9)](https://docs.astral.sh/uv/)
-[![ty type checked](https://img.shields.io/badge/ty-type_checked-2F80ED)](https://docs.astral.sh/ty/)
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://docs.astral.sh/ruff/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![marimo](https://img.shields.io/badge/marimo-reactive_notebook-FF6B6B)](https://docs.marimo.io/)
-[![Zensical docs](https://img.shields.io/badge/Zensical-docs-purple)](https://zensical.org/)
-[![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
 
-> Professional Python project: linear regression and predictive analytics.
 
 ## Project Goal
 
 This project introduces **linear regression**, the process of
-fitting a model to data and using it to make predictions.
+fitting a model to data and using it to make predictions.   Here I am going to compare composite 2024 state 8th grade math scores to state 2024 reading scores to see if there is strong relationship between the two.
 
-Think about two variables that might be related:
+Think about two variables that might be related:  
 
 - Does study time predict exam scores?
 - Does temperature predict energy usage?
