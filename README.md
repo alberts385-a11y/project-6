@@ -9,9 +9,8 @@ fitting a model to data and using it to make predictions.   Here I am going to c
 
 Think about two variables that might be related:  
 
-- Does study time predict exam scores?
-- Does temperature predict energy usage?
-- Does advertising spend predict revenue?
+- Do higher math scores predict higher reading scores and vise versa
+
 
 Your goal: run the example, read the code,
 and apply the same approach to a dataset and question of your own choosing.
